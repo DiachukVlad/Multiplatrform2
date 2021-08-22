@@ -1,0 +1,2 @@
+me/vlad/common/BuildConfig.java
+ me.vlad.common.BuildConfig

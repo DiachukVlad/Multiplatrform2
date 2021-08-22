@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/vlad/Programs/2works/InteliJ_IDEA/Multiplatrform2/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/vlad/.gradle/caches/transforms-3/c3214bebd9cb61475081c6fa7d1e5ff4/transformed/appcompat-1.2.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
