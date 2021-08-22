@@ -1,1 +1,0 @@
-/home/vlad/Programs/2works/InteliJ_IDEA/Multiplatrform2/android/src/main/java/me/vlad/android/MainActivity.kt
